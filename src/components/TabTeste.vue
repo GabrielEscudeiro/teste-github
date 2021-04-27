@@ -9,4 +9,8 @@
 export default {};
 </script>
 
-<style></style>
+<style>
+body {
+  background: green;
+}
+</style>
