@@ -9,4 +9,9 @@
 export default {};
 </script>
 
-<style></style>
+<style>
+body {
+  background: blue;
+  color: red;
+}
+</style>
