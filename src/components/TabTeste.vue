@@ -3,6 +3,7 @@
     <p>Esse aqui faz parte do terceiro commit</p>
     <p>Também faz parte do terceiro commit</p>
     <p>Esse faz parte do feature1</p>
+    <p>Mais coisa que faz parte do feature1</p>
   </div>
 </template>
 
